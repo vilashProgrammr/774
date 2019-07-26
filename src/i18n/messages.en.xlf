@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="home" datatype="html">
         <source>
-          Home
-        </source><target state="final">Home</target>
+          Homedsfdsf
+        </source><target state="final">Homedsfdsf</target>
 
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header/header.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit><trans-unit id="findHero" datatype="html">
-        <source>Look for a hero!</source><target state="final">Look for a hero!</target>
+        <source>Look for a dsfsfdsfsdfhero!</source><target state="final">Look for a hero!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/shared/components/search-bar/search-bar.component.html</context>
           <context context-type="linenumber">2</context>

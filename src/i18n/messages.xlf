@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="home" datatype="html">
         <source>
-          Home
+          Homedfsdfsdf
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/shared/components/header/header.component.html</context>
